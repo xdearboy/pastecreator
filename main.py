@@ -2,6 +2,7 @@ from importlib import metadata
 import subprocess
 import sys
 
+
 ORANGE = "\033[38;2;255;165;0m"
 RED = "\033[38;2;255;0;0m"
 END = "\033[0m"
